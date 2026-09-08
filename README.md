@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31978507/README.md)
 # Séances Kayak 🛶
 
 Carnet de séances collaboratif pour club de kayak, à l'usage des moniteurs
